@@ -4,6 +4,7 @@ Google Colab notebooks for CHEM 438 (Intro to Python + Computational Chemistry).
 
 - **`homework/`** — the graded science homeworks, opened from the course app.
 - **`practice/`** — extra ungraded practice sets.
+- **`final-projects/past-2025/`** — four final projects from fall 2025, names removed, as examples.
 
 **This repo holds only material that has already been released.** Future homeworks
 and practice sets are published as the course reaches each topic, so the whole term
