@@ -1,0 +1,13 @@
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/ethane_eclipsed.out
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/ethane_eclipsed.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/ethane_eclipsed_trj.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/ethane_staggered.out
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/ethane_staggered.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/formaldehyde.out
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/formaldehyde.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/water_linear.out
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/water_linear.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/water_opt.out
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/water_opt.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/water_opt_freq.out
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/reference/water_opt_trj.xyz
