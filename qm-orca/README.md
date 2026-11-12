@@ -13,3 +13,13 @@ Four more runs for Lecture 23 (reading the results), same method and basis, all 
 | `formaldehyde` | H₂CO minimum | −114.439032 | 0; C=O stretch 1851 cm⁻¹ (expt 1746) |
 | `ethane_staggered` | the minimum | −79.763925 | 0 |
 | `ethane_eclipsed` | H–C–C–H dihedral held at 0° (`%geom Constraints`) | −79.759513 | 1 (−301 cm⁻¹): the rotation transition state, 11.6 kJ/mol up |
+
+`bigger/` is Lecture 23's last chunk and Homework 12: the same job on molecules nobody types by hand. `make_xyz.py` builds `aspirin.xyz` and `ethanol.xyz` from SMILES with RDKit; the inputs point at them with `* xyzfile 0 1 name.xyz`; `run_orca.sh` takes the input's name as its argument. All run on **one core** of Swan (`--ntasks=1 --mem=4G`), 2026-11-12, B3LYP D3BJ def2-SVP unless said:
+
+| run | atoms | basis functions | one core took | result |
+|---|---|---|---|---|
+| `ethanol_opt_freq` | 9 | 72 | 1 min 43 s | 6 cycles, −154.835580 Eh, 0 imaginary |
+| `aspirin_cheap` (`r2SCAN-3c Opt`) | 21 | 307 | 12 min | 16 cycles, −648.601709 Eh (not comparable with B3LYP) |
+| `aspirin_opt_freq` | 21 | 307 | 37 min | 14 cycles, −647.918982 Eh, 0 imaginary |
+
+`files.txt` lists every file for `wget -i`.

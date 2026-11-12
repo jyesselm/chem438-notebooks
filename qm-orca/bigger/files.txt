@@ -1,0 +1,16 @@
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/aspirin.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/aspirin_opt_freq.inp
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/aspirin_opt_freq.out
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/aspirin_opt_freq.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/aspirin_opt_freq_trj.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/aspirin_cheap.inp
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/aspirin_cheap.out
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/aspirin_cheap.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/aspirin_cheap_trj.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/ethanol.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/ethanol_opt_freq.inp
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/ethanol_opt_freq.out
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/ethanol_opt_freq.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/ethanol_opt_freq_trj.xyz
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/run_orca.sh
+https://raw.githubusercontent.com/jyesselm/chem438-notebooks/main/qm-orca/bigger/make_xyz.py
